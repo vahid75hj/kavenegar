@@ -1,0 +1,23 @@
+name: kavenegar
+description: >-
+  Pure Dart SDK for the Kavenegar SMS REST API with namespaced resources,
+  typed models, and Serverpod-friendly HTTP injection. No Flutter dependency.
+version: 0.1.0
+repository: https://github.com/vahid75hj/kavenegar
+homepage: https://github.com/vahid75hj/kavenegar
+issue_tracker: https://github.com/vahid75hj/kavenegar/issues
+
+environment:
+  sdk: ^3.3.0
+
+dependencies:
+  http: ^1.2.2
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.8
+
+topics:
+  - sms
+  - otp
+  - kavenegar
